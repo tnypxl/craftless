@@ -13,7 +13,7 @@ return array(
 	'server' => 'localhost',
 
 	// The database username to connect with.
-	'user' => 'root',
+	'user' => '',
 
 	// The database password to connect with.
 	'password' => '',
